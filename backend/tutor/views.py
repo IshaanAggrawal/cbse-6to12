@@ -132,13 +132,18 @@ class DoubtHistoryView(APIView):
 
     def get(self, request):
         qs = Doubt.objects.all()
-        class_no = request.query_params.get('class_no')
-        subject  = request.query_params.get('subject')
+        class_no    = request.query_params.get('class_no')
+        subject     = request.query_params.get('subject')
+        session_id  = request.query_params.get('session_id')
+        
+        if session_id:
+            qs = qs.filter(session_id=session_id)
         if class_no:
             qs = qs.filter(class_no=int(class_no))
         if subject:
             qs = qs.filter(subject=subject)
-        qs = qs[:50]
+            
+        qs = qs.order_by('created_at')[:50]
         return Response(DoubtSerializer(qs, many=True).data)
 
 

@@ -109,6 +109,11 @@ export async function getSession(id: string): Promise<ChatSession & { messages: 
     return res.json();
 }
 
+export async function fetchHistory(sessionId: string): Promise<any[]> {
+    const res = await fetch(`${API_BASE}/api/doubts/?session_id=${sessionId}`);
+    return res.json();
+}
+
 // ── Health ─────────────────────────────────────────────────────────────────────
 export async function healthCheck() {
     const res = await fetch(`${API_BASE}/api/health/`);

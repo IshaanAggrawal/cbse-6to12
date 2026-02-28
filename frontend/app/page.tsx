@@ -5,7 +5,7 @@ import { v4 as uuidv4 } from "uuid";
 import Header from "@/components/Header";
 import ChatWindow from "@/components/ChatWindow";
 import InputBar from "@/components/InputBar";
-import { askStream } from "@/lib/api";
+import { askStream, fetchHistory } from "@/lib/api";
 
 interface Message {
   id: string;
@@ -21,17 +21,7 @@ export default function Home() {
   const [classNo, setClassNo] = useState<number | null>(null);
   const [subject, setSubject] = useState<string | null>(null);
   const [language, setLanguage] = useState<"english" | "hindi">("english");
-
-  // Handle suggestion chip clicks from ChatWindow
-  useEffect(() => {
-    const handler = (e: Event) => {
-      const q = (e as CustomEvent<string>).detail;
-      handleSend({ question: q });
-    };
-    window.addEventListener("suggestion-chip", handler);
-    return () => window.removeEventListener("suggestion-chip", handler);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [classNo, subject, language, isLoading]);
+  const [sessionId, setSessionId] = useState<string | null>(null);
 
   const handleSend = useCallback(
     async ({
@@ -45,7 +35,6 @@ export default function Home() {
     }) => {
       if (isLoading) return;
 
-      // Add user message
       const userMsg: Message = {
         id: uuidv4(),
         role: "user",
@@ -57,7 +46,6 @@ export default function Home() {
       setMessages((prev) => [...prev, userMsg]);
       setIsLoading(true);
 
-      // Placeholder streaming assistant message
       const assistantId = uuidv4();
       setMessages((prev) => [
         ...prev,
@@ -72,6 +60,7 @@ export default function Home() {
           class_no: classNo,
           subject,
           language,
+          session_id: sessionId,
           image_base64: imageBase64 ?? null,
           image_mime: imageMime ?? "image/jpeg",
           stream: true,
@@ -87,14 +76,12 @@ export default function Home() {
           );
         },
         () => {
-          // Done
           setMessages((prev) =>
             prev.map((m) =>
               m.id === assistantId ? { ...m, isStreaming: false } : m
             )
           );
           setIsLoading(false);
-          // TTS for short answers
           if (fullText.length < 600 && window.speechSynthesis) {
             window.speechSynthesis.cancel();
             const utter = new SpeechSynthesisUtterance(fullText.slice(0, 500));
@@ -119,8 +106,43 @@ export default function Home() {
         }
       );
     },
-    [classNo, subject, language, isLoading]
+    [classNo, subject, language, isLoading, sessionId]
   );
+
+  // Handle suggestion chip clicks from ChatWindow
+  useEffect(() => {
+    const handler = (e: Event) => {
+      const q = (e as CustomEvent<string>).detail;
+      handleSend({ question: q });
+    };
+    window.addEventListener("suggestion-chip", handler);
+    return () => window.removeEventListener("suggestion-chip", handler);
+  }, [handleSend]);
+
+  // Initialize session and fetch history
+  useEffect(() => {
+    let sid = localStorage.getItem("tutor_session_id");
+    if (!sid) {
+      sid = uuidv4();
+      localStorage.setItem("tutor_session_id", sid);
+    }
+    setSessionId(sid);
+
+    async function loadHistory() {
+      if (!sid) return;
+      try {
+        const history = await fetchHistory(sid);
+        const mapped: Message[] = history.map((h: any) => ([
+          { id: `${h.id}-q`, role: "user" as const, content: h.question },
+          { id: `${h.id}-a`, role: "assistant" as const, content: h.answer }
+        ])).flat();
+        setMessages(mapped);
+      } catch (e) {
+        console.error("Failed to load history", e);
+      }
+    }
+    loadHistory();
+  }, []);
 
   return (
     <main
