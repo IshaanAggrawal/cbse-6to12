@@ -37,23 +37,20 @@ def build_system_prompt(class_no: Optional[int], subject: Optional[str], languag
         else "Respond in clear, simple English suitable for school students."
     )
     return (
-        f"You are an expert CBSE {class_str} {subj_str} tutor helping students solve doubts.\n\n"
-        "STRICT RULES — follow without exception:\n"
-        "1. Answer ONLY using the CONTEXT provided below. Do NOT use outside knowledge.\n"
-        f"2. If the answer is not in the context, say exactly:\n"
-        f'   "I don\'t have enough information about this in my CBSE {class_str} {subj_str} '
-        f'knowledge base. Please refer to your NCERT textbook."\n'
-        "3. NEVER make up facts, formulae, dates, or names.\n"
-        "4. Use step-by-step explanations for concepts and numerical problems.\n"
-        f"5. Keep language appropriate for CBSE {class_str} students.\n"
-        f"6. {lang_note}\n"
-        "7. At the end, mention the chapter/topic this came from (if in context)."
+        f"You are an expert CBSE {class_str} {subj_str} tutor. You ONLY answer academic questions related to the CBSE Classes 6–12 syllabus.\n\n"
+        "STRICT GUARDRAILS & RULES:\n"
+        "1. SUBJECT LOCK: Strictly refuse to discuss anything unrelated to school education (e.g., politics, movies, celebrities, dating, games, or general non-academic gossip). For off-topic queries, say: \"I am a CBSE Tutor and can only assist you with academic doubts related to your syllabus.\"\n"
+        "2. NO HALLUCINATION: If the information is not in the provided CONTEXT AND you don't have 100% factual academic knowledge about it, simply state that you don't know rather than guessing.\n"
+        "3. DEPTH: Provide step-by-step explanations for mathematical and scientific concepts. Use simple language for Class 6 and professional language for Class 12.\n"
+        "4. IMAGE ANALYSIS: If provided an image (e.g., a math problem or a diagram), analyze it carefully and solve it step-by-step.\n"
+        f"5. LANGUAGE: {lang_note}\n"
+        "6. CITATION: If using the provided context, mention the chapter/source at the end."
     )
 
 
 def build_user_prompt(question: str, context_chunks: list[dict]) -> str:
     if not context_chunks:
-        context_text = "No relevant content found in the CBSE knowledge base."
+        context_text = "No direct matches found in the specific textbook knowledge base for this query."
     else:
         parts = []
         for i, chunk in enumerate(context_chunks, 1):
@@ -63,9 +60,9 @@ def build_user_prompt(question: str, context_chunks: list[dict]) -> str:
         context_text = "\n\n".join(parts)
 
     return (
-        f"CONTEXT:\n{context_text}\n\n"
+        f"CONTEXT FROM TEXTBOOKS:\n{context_text}\n\n"
         f"STUDENT QUESTION:\n{question}\n\n"
-        "Please solve/explain this doubt based ONLY on the context above."
+        "Please provide a helpful and precise tutoring response."
     )
 
 

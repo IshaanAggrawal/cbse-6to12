@@ -109,7 +109,7 @@ export default function Home() {
               m.id === assistantId
                 ? {
                   ...m,
-                  content: `⚠️ Error: ${err}. Make sure the backend is running at http://localhost:8000`,
+                  content: `⚠️ Error: ${err}.`,
                   isStreaming: false,
                 }
                 : m
