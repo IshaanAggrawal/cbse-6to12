@@ -5,6 +5,7 @@ services:
   - type: web
     name: cbse-tutor-backend
     runtime: python
+    rootDir: backend
     region: singapore          # closest to India
     plan: free                 # upgrade to starter for always-on
     buildCommand: |
