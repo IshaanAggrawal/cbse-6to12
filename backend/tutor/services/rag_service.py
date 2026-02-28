@@ -23,25 +23,13 @@ _pinecone_index  = None
 
 
 def get_embedding_model():
-    global _embedding_model
-    if _embedding_model is None:
-        from sentence_transformers import SentenceTransformer
-        logger.info(f"Loading embedding model: {settings.EMBEDDING_MODEL}")
-        _embedding_model = SentenceTransformer(settings.EMBEDDING_MODEL)
-    return _embedding_model
+    """Disabled to save memory on Render Free tier."""
+    return None
 
 
 def get_pinecone_index():
-    global _pinecone_index
-    if _pinecone_index is None:
-        from pinecone import Pinecone
-        api_key = settings.PINECONE_API_KEY
-        if not api_key:
-            raise RuntimeError("PINECONE_API_KEY not configured in settings")
-        pc = Pinecone(api_key=api_key)
-        _pinecone_index = pc.Index(settings.PINECONE_INDEX)
-        logger.info(f"Pinecone index '{settings.PINECONE_INDEX}' connected.")
-    return _pinecone_index
+    """Disabled to save memory on Render Free tier."""
+    return None
 
 
 # ── Cache key ─────────────────────────────────────────────────────────────────
@@ -52,12 +40,7 @@ def _cache_key(question: str, class_no: Optional[int], subject: Optional[str]) -
 
 # ── Pinecone filter builder ───────────────────────────────────────────────────
 def _build_filter(class_no: Optional[int], subject: Optional[str]) -> Optional[dict]:
-    f = {}
-    if class_no:
-        f['class'] = {'$eq': class_no}
-    if subject:
-        f['subject'] = {'$eq': subject}
-    return f or None
+    return None
 
 
 # ── Main retrieval function ───────────────────────────────────────────────────
@@ -68,47 +51,8 @@ def retrieve_context(
     top_k: Optional[int] = None,
 ) -> list[dict]:
     """
-    Retrieves the most relevant CBSE knowledge chunks from Pinecone.
-    Returns list of dicts: {text, score, chapter_title, source, class_no, subject}
+    BYPASSED: Memory-efficient mode (No RAG).
+    Returns empty list to rely on LLM internal knowledge.
     """
-    top_k = top_k or settings.TOP_K_RETRIEVAL
-    cache_key = _cache_key(question, class_no, subject)
-
-    # Check retrieval cache
-    cached = cache.get(cache_key)
-    if cached is not None:
-        logger.info("Retrieval cache hit.")
-        return cached
-
-    model  = get_embedding_model()
-    index  = get_pinecone_index()
-    vector = model.encode(question, normalize_embeddings=True).tolist()
-
-    try:
-        results = index.query(
-            vector=vector,
-            top_k=top_k,
-            include_metadata=True,
-            filter=_build_filter(class_no, subject),
-        )
-    except Exception as e:
-        logger.error(f"Pinecone query failed: {e}")
-        return []
-
-    chunks = []
-    for match in results.get('matches', []):
-        score = match.get('score', 0)
-        if score < 0.3:          # discard low-confidence
-            continue
-        meta = match.get('metadata', {})
-        chunks.append({
-            'text':          meta.get('text', ''),
-            'score':         round(score, 4),
-            'chapter_title': meta.get('chapter_title', ''),
-            'source':        meta.get('source', ''),
-            'class_no':      meta.get('class'),
-            'subject':       meta.get('subject'),
-        })
-
-    cache.set(cache_key, chunks, timeout=1800)   # 30 min retrieval cache
-    return chunks
+    logger.info("RAG retrieval bypassed for memory efficiency.")
+    return []

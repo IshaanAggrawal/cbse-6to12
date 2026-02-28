@@ -4,7 +4,6 @@ django-cors-headers
 django-environ
 groq
 httpx
-sentence-transformers
 pinecone
 PyMuPDF
 tqdm
