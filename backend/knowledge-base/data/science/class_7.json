@@ -1,0 +1,230 @@
+{
+    "class": 7,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "Nutrition in Plants",
+            "topics": [
+                "Autotrophic nutrition: photosynthesis",
+                "Raw materials for photosynthesis: CO2, water, sunlight, chlorophyll",
+                "Heterotrophic nutrition: parasitic, saprophytic, insectivorous",
+                "Symbiotic plants: lichens and legumes with rhizobium",
+                "Chloroplast and its role",
+                "Products of photosynthesis: glucose and oxygen",
+                "Stomata and gas exchange"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Nutrition in Animals",
+            "topics": [
+                "Mode of taking food in different animals",
+                "Human digestive system: mouth, oesophagus, stomach, small intestine, large intestine",
+                "Digestion of starch, proteins, and fats",
+                "Role of liver and pancreas",
+                "Absorption and assimilation",
+                "Ruminants and rumination",
+                "Amoeba and food vacuoles"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Fibre to Fabric",
+            "topics": [
+                "Animal fibres: wool from sheep, alpaca, yak, llama, camel, angora rabbit",
+                "Rearing sheep: breeding, shearing, scouring",
+                "Silk production: silkworm lifecycle",
+                "Sericulture process",
+                "Properties of silk and wool"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Heat",
+            "topics": [
+                "Hot and cold: temperature concept",
+                "Clinical thermometer and laboratory thermometer",
+                "Modes of heat transfer: conduction, convection, radiation",
+                "Conductors and insulators of heat",
+                "Sea breeze and land breeze",
+                "Woollen clothes in winter: air as insulator"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "Acids, Bases and Salts",
+            "topics": [
+                "Natural indicators: litmus, turmeric, china rose",
+                "Properties of acids and bases",
+                "Neutralisation reaction",
+                "Salts formation",
+                "pH concept (introduction)",
+                "Everyday uses: antacids, soil treatment, factory waste neutralisation",
+                "Common examples: lemon juice, vinegar, baking soda, soap"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "Physical and Chemical Changes",
+            "topics": [
+                "Physical changes: reversible, no new substance",
+                "Chemical changes: irreversible, new substances formed",
+                "Rusting of iron: conditions required",
+                "Crystallisation",
+                "Burning as chemical change",
+                "Galvanisation to prevent rusting"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "Weather, Climate and Adaptations of Animals to Climate",
+            "topics": [
+                "Weather vs climate",
+                "Elements of weather: temperature, humidity, rainfall, wind speed",
+                "Climate zones: tropical, polar",
+                "Adaptation in polar animals: penguins, polar bears",
+                "Tropical rainforest animals: toucan, sloth, tree frog",
+                "Migration of birds"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "Winds, Storms and Cyclones",
+            "topics": [
+                "Air pressure and wind",
+                "Thunderstorm formation",
+                "Cyclone formation and characteristics",
+                "Tornado and hurricane",
+                "Safety measures during storms",
+                "Monsoon and seasonal winds in India"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Soil",
+            "topics": [
+                "Soil formation and weathering",
+                "Soil profile: topsoil, subsoil, bedrock",
+                "Types of soil: sandy, clayey, loamy",
+                "Soil texture and water retention",
+                "Soil and plant life",
+                "Soil erosion and conservation",
+                "Moisture in soil: absorption test"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "Respiration in Organisms",
+            "topics": [
+                "Breathing vs respiration",
+                "Aerobic and anaerobic respiration",
+                "Respiration in humans: nose, trachea, bronchi, lungs, alveoli",
+                "Respiration in plants: stomata",
+                "Respiration in fish: gills",
+                "Respiration in earthworm: skin",
+                "Yeast and anaerobic respiration: fermentation"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "Transportation in Animals and Plants",
+            "topics": [
+                "Circulatory system: heart, blood vessels, blood",
+                "Blood composition: RBC, WBC, platelets, plasma",
+                "Blood groups",
+                "Heartbeat and pulse rate",
+                "Excretion in animals: kidneys, urine",
+                "Transpiration in plants",
+                "Transport of water and minerals in plants: xylem",
+                "Transport of food in plants: phloem"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Reproduction in Plants",
+            "topics": [
+                "Asexual reproduction: vegetative propagation, budding, fragmentation, spore formation",
+                "Sexual reproduction in plants: pollination and fertilisation",
+                "Parts of a flower: sepal, petal, stamen, pistil",
+                "Self and cross-pollination",
+                "Agents of pollination: wind, water, insects",
+                "Seed dispersal methods"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Motion and Time",
+            "topics": [
+                "Types of motion: uniform and non-uniform",
+                "Speed = distance/time",
+                "Measurement of time: simple pendulum",
+                "Speed-time graphs",
+                "Distance-time graphs",
+                "Units of speed: m/s, km/h"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Electric Current and Its Effects",
+            "topics": [
+                "Heating effect: electric iron, toaster, fuse",
+                "Magnetic effect of electric current",
+                "Electromagnet and its uses",
+                "Electric bell working",
+                "Types of cells: dry cell",
+                "Short circuit and electric shock prevention"
+            ]
+        },
+        {
+            "chapter_no": 15,
+            "title": "Light",
+            "topics": [
+                "Rectilinear propagation of light",
+                "Reflection: laws of reflection",
+                "Plane mirror images: virtual, erect, laterally inverted",
+                "Spherical mirrors: concave and convex",
+                "Real and virtual images",
+                "Formation of image by concave mirror",
+                "Application of mirrors"
+            ]
+        },
+        {
+            "chapter_no": 16,
+            "title": "Water: A Precious Resource",
+            "topics": [
+                "Water scarcity and its causes",
+                "Ground water depletion",
+                "Rainwater harvesting methods",
+                "Check dams and their purposes",
+                "States of water in nature",
+                "Importance of water conservation"
+            ]
+        },
+        {
+            "chapter_no": 17,
+            "title": "Forests: Our Lifeline",
+            "topics": [
+                "Forest as ecosystem",
+                "Role of forests: oxygen, water cycle, soil conservation, habitat",
+                "Deforestation and its effects",
+                "Biodiversity in forests",
+                "Forest products: timber, herbs, fruits",
+                "Canopy, understory, forest floor layers"
+            ]
+        },
+        {
+            "chapter_no": 18,
+            "title": "Wastewater Story",
+            "topics": [
+                "Sewage composition and problems",
+                "Wastewater treatment plant: screening, sedimentation, aeration, disinfection",
+                "Sanitation and public health",
+                "Vermicomposting of sludge",
+                "Open defecation and waterborne diseases",
+                "Sanitation practices at home and community"
+            ]
+        }
+    ]
+}

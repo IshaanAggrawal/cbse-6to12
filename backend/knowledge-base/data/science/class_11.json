@@ -1,0 +1,208 @@
+{
+    "class": 11,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "Some Basic Concepts of Chemistry",
+            "topics": [
+                "Importance and scope of chemistry",
+                "Nature of matter: states, mixtures, elements, compounds",
+                "Properties of matter: physical and chemical",
+                "Measurement: SI units, significant figures, scientific notation",
+                "Laws of chemical combination",
+                "Atomic mass, molecular mass, molar mass",
+                "Mole concept and Avogadro's number",
+                "Percentage composition and empirical/molecular formula",
+                "Stoichiometry of chemical reactions",
+                "Limiting reagent concept"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Structure of Atom",
+            "topics": [
+                "Atomic models: Thomson, Rutherford, Bohr",
+                "Line spectrum of hydrogen: Lyman, Balmer, Paschen series",
+                "Bohr's model of hydrogen atom: energy levels",
+                "Wave-particle duality: de Broglie equation",
+                "Heisenberg uncertainty principle",
+                "Quantum mechanics approach: orbitals vs orbits",
+                "Quantum numbers: principal (n), azimuthal (l), magnetic (m), spin (s)",
+                "Shapes of orbitals: s, p, d",
+                "Aufbau principle, Pauli exclusion principle, Hund's rule",
+                "Electronic configuration and stability of half-filled/fully-filled orbitals"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Classification of Elements and Periodicity in Properties",
+            "topics": [
+                "Modern periodic law and the present form of periodic table",
+                "Electronic configuration and periodic table",
+                "Nomenclature of heavy elements (Z > 100)",
+                "Periodic trends: atomic radius, ionic radius, ionisation enthalpy, electron gain enthalpy, electronegativity",
+                "Valence electrons and valency",
+                "Periodicity of chemical properties: oxides, halides",
+                "Anomalous behaviour of first row elements"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Chemical Bonding and Molecular Structure",
+            "topics": [
+                "Ionic bond: lattice energy, factors favouring ionic bond",
+                "Covalent bond: Lewis structures, bond parameters",
+                "VSEPR theory: shapes of molecules",
+                "Valence bond theory: sigma and pi bonds",
+                "Hybridisation: sp, sp², sp³, sp³d, sp³d²",
+                "Resonance structures",
+                "Molecular orbital theory: bonding and antibonding orbitals",
+                "Bond order calculation",
+                "Hydrogen bonding and dipole-dipole interactions",
+                "Exceptions to octet rule"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "States of Matter",
+            "topics": [
+                "Intermolecular forces: van der Waals forces, dipole-dipole",
+                "Thermal energy vs intermolecular forces",
+                "Gaseous state: gas laws — Boyle's, Charles', Gay-Lussac's, Avogadro's",
+                "Ideal gas equation: PV = nRT",
+                "Dalton's law of partial pressures",
+                "Kinetic molecular theory of gases",
+                "Real gases: deviation from ideal behaviour, van der Waals equation",
+                "Liquefaction of gases",
+                "Liquid state: vapour pressure, surface tension, viscosity"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "Thermodynamics",
+            "topics": [
+                "Thermodynamic terms: system, surroundings, boundary, state functions",
+                "First law: ΔU = q + w",
+                "Enthalpy: H = U + PV, ΔH for reactions at constant pressure",
+                "Hess's law of constant heat summation",
+                "Enthalpies of formation, combustion, atomisation",
+                "Bond enthalpy",
+                "Second law: entropy and spontaneity, ΔS",
+                "Gibbs energy: ΔG = ΔH - TΔS",
+                "Third law of thermodynamics",
+                "Spontaneity conditions"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "Equilibrium",
+            "topics": [
+                "Equilibrium in physical processes: solid-liquid, liquid-gas",
+                "Dynamic nature of equilibrium",
+                "Law of chemical equilibrium and equilibrium constant (Kc and Kp)",
+                "Heterogeneous equilibria",
+                "Le Chatelier's principle",
+                "Ionic equilibrium: acids, bases, Arrhenius and Brønsted-Lowry concepts",
+                "Buffer solutions",
+                "pH calculations",
+                "Solubility product (Ksp) and common ion effect"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "Redox Reactions",
+            "topics": [
+                "Classical concept of oxidation and reduction",
+                "Oxidation number: rules and calculations",
+                "Types of redox reactions: combination, decomposition, disproportionation",
+                "Balancing redox reactions: oxidation number method, half-reaction method",
+                "Electrochemical cells: concept of reduction potential",
+                "Corrosion as redox process"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Hydrogen",
+            "topics": [
+                "Position of hydrogen in periodic table",
+                "Dihydrogen: occurrence, isotopes, preparation, properties, uses",
+                "Hydrides: ionic, covalent, metallic",
+                "Water: structure, physical and chemical properties",
+                "Heavy water and its uses",
+                "Hydrogen peroxide: preparation, properties, structure, uses",
+                "Hydrogen as fuel: hydrogen economy"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "The s-Block Elements",
+            "topics": [
+                "Group 1: alkali metals — electronic configuration, atomic and ionic radii, ionisation enthalpy",
+                "Physical and chemical properties of alkali metals",
+                "Important compounds of sodium: NaOH (caustic soda), Na₂CO₃ (washing soda), NaCl, NaHCO₃ (baking soda)",
+                "Group 2: alkaline earth metals — trends in properties",
+                "Diagonal relationship between Li & Mg, Be & Al",
+                "Important compounds of calcium: CaO, Ca(OH)₂, CaCO₃, CaSO₄ (plaster of Paris)",
+                "Biological importance of Na, K, Ca, Mg"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "The p-Block Elements (Groups 13-14)",
+            "topics": [
+                "Group 13: boron family — electronic configuration, trends in properties",
+                "Boron anomalous behaviour",
+                "Important compounds of boron: borax, boric acid, diborane",
+                "Aluminium: properties, compounds (alums, Al₂O₃)",
+                "Group 14: carbon family",
+                "Allotropes of carbon: diamond, graphite, fullerene, graphene",
+                "Oxides of carbon: CO and CO₂",
+                "Silicon and its compounds: silicates, silicones",
+                "Catenation property of carbon"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Organic Chemistry — Some Basic Principles and Techniques",
+            "topics": [
+                "Tetravalence of carbon and shapes of organic molecules",
+                "Structural representations: complete, condensed, bond-line",
+                "Functional groups and homologous series",
+                "IUPAC nomenclature: alkanes, alkenes, alkynes, functional group compounds",
+                "Isomerism: structural (chain, position, functional group) and stereoisomerism",
+                "Fundamental concepts of organic reaction mechanisms",
+                "Types of organic reactions: addition, elimination, substitution, radical",
+                "Purification: crystallisation, distillation, sublimation, chromatography",
+                "Detection of elements: Lassaigne's sodium fusion test"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Hydrocarbons",
+            "topics": [
+                "Classification: alkanes, alkenes, alkynes, aromatic compounds",
+                "Alkanes: IUPAC names, properties (substitution, combustion, isomerisation)",
+                "Alkenes: IUPAC names, properties (Markovnikov's rule, electrophilic addition)",
+                "Alkynes: acidic character, addition reactions",
+                "Benzene: Kekulé structure, resonance, aromaticity (Hückel's rule)",
+                "Electrophilic substitution of benzene: halogenation, nitration, sulphonation",
+                "Carcinogenicity of hydrocarbons and environmental hazards"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Environmental Chemistry",
+            "topics": [
+                "Environmental pollution: types and sources",
+                "Atmospheric pollution: troposphere — smog, acid rain, global warming",
+                "Stratosphere: ozone layer, ozone depletion by CFCs and free radicals",
+                "Water pollution: causes, effects, treatment",
+                "Soil pollution: pesticides, herbicides, industrial waste",
+                "Industrial waste and green chemistry",
+                "Green chemistry principles and strategies"
+            ]
+        }
+    ]
+}

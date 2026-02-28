@@ -1,0 +1,242 @@
+{
+    "class": 8,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "Crop Production and Management",
+            "topics": [
+                "Agricultural practices: preparation, sowing, adding manure/fertilisers, irrigation, protection, harvesting, storage",
+                "Kharif and rabi crops with examples",
+                "Tools: plough, hoe, cultivator",
+                "Traditional and modern methods of irrigation",
+                "Organic vs chemical fertilisers",
+                "Weed management",
+                "Storage of grains: silos, granaries"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Microorganisms: Friend and Foe",
+            "topics": [
+                "Types of microorganisms: bacteria, fungi, protozoa, algae, viruses",
+                "Useful microorganisms: curd, bread, alcohol, vinegar, antibiotics, vaccines",
+                "Nitrogen fixing bacteria: Rhizobium",
+                "Harmful microorganisms: pathogens, food spoilage",
+                "Communicable diseases and their prevention",
+                "Preservation of food: pasteurisation, refrigeration, salting, oil",
+                "Antibiotics: discovery and action"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Synthetic Fibres and Plastics",
+            "topics": [
+                "Types of synthetic fibres: nylon, rayon, polyester, acrylic",
+                "Properties of synthetic fibres vs natural fibres",
+                "Types of plastics: thermoplastics and thermosetting plastics",
+                "Plastics and environment: non-biodegradable problems",
+                "The 4 Rs: reduce, reuse, recycle, recover",
+                "BIS mark and ISI mark"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Materials: Metals and Non-Metals",
+            "topics": [
+                "Physical properties of metals: lustre, hardness, malleability, ductility, conductivity",
+                "Physical properties of non-metals",
+                "Chemical properties: reaction with water, acids, bases, oxygen",
+                "Noble metals: gold, silver, platinum",
+                "Uses of metals and non-metals",
+                "Displacement reaction",
+                "Alloys: steel, brass, bronze"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "Coal and Petroleum",
+            "topics": [
+                "Fossil fuels formation",
+                "Coal and its products: coke, coal tar, coal gas",
+                "Petroleum refining: fractional distillation",
+                "Products of petroleum: petrol, diesel, LPG, kerosene, paraffin wax",
+                "Natural gas: CNG as fuel",
+                "PCRA: petroleum conservation",
+                "Non-renewable nature of fossil fuels"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "Combustion and Flame",
+            "topics": [
+                "Conditions for combustion: fuel, air, ignition temperature",
+                "Types of combustion: rapid, spontaneous, explosive",
+                "Zones of a flame: outer, middle (luminous), inner",
+                "Calorific value of fuels",
+                "Fire extinguisher working principle",
+                "Harmful effects of burning fossil fuels",
+                "Ignition temperature concept"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "Conservation of Plants and Animals",
+            "topics": [
+                "Deforestation causes and effects: climate change, soil erosion, floods",
+                "Biodiversity conservation",
+                "National Parks, sanctuaries, biosphere reserves",
+                "Endemic and endangered species",
+                "Red Data Book",
+                "Migration of animals",
+                "Afforestation and reforestation"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "Cell — Structure and Functions",
+            "topics": [
+                "Discovery of cell: Robert Hooke",
+                "Cell theory",
+                "Types of organisms: unicellular and multicellular",
+                "Plant cell vs animal cell",
+                "Cell organelles: cell wall, cell membrane, nucleus, cytoplasm, chloroplast, vacuole, mitochondria",
+                "Prokaryotic vs eukaryotic cells",
+                "Chromosomes and genes introduction"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Reproduction in Animals",
+            "topics": [
+                "Sexual reproduction: fertilisation (internal and external)",
+                "Viviparous and oviparous animals",
+                "Human reproductive system overview",
+                "Development of embryo in uterus",
+                "Asexual reproduction: budding (hydra), binary fission (amoeba)",
+                "Metamorphosis in frog and butterfly",
+                "Cloning introduction"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "Reaching the Age of Adolescence",
+            "topics": [
+                "Puberty: physical and emotional changes in boys and girls",
+                "Secondary sexual characters",
+                "Role of hormones: testosterone, oestrogen",
+                "Endocrine glands: pituitary, thyroid, adrenal, pancreas",
+                "Reproductive health and hygiene",
+                "Nutritional needs during adolescence",
+                "Personal hygiene during puberty"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "Force and Pressure",
+            "topics": [
+                "Force: push or pull, effects on objects",
+                "Contact and non-contact forces",
+                "Friction: types and uses",
+                "Gravitational force",
+                "Magnetic and electrostatic force",
+                "Pressure = Force/Area",
+                "Atmospheric pressure",
+                "Liquid pressure"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Friction",
+            "topics": [
+                "Friction: definition and factors affecting it",
+                "Static, sliding, and rolling friction",
+                "Friction as a necessary evil",
+                "Methods to increase friction: treads, grooves",
+                "Methods to reduce friction: lubricants, ball bearings, streamlining, polishing",
+                "Fluid friction and drag"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Sound",
+            "topics": [
+                "Sound production: vibration",
+                "Sound propagation: longitudinal waves through medium",
+                "Pitch and frequency",
+                "Loudness and amplitude",
+                "Noise vs music",
+                "Noise pollution: causes and effects",
+                "Audible range (20 Hz - 20000 Hz)",
+                "Ultrasound applications"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Chemical Effects of Electric Current",
+            "topics": [
+                "Conduction of electricity in liquids",
+                "Electrolytes and non-electrolytes",
+                "Electroplating process and uses",
+                "LED and its application",
+                "Electrolysis concept",
+                "Applications: gold and silver plating, tin cans, chromium plating on car parts"
+            ]
+        },
+        {
+            "chapter_no": 15,
+            "title": "Some Natural Phenomena",
+            "topics": [
+                "Lightning: formation and safety",
+                "Earthing of buildings",
+                "Thunderstorm safety measures",
+                "Earthquakes: causes, seismic waves, Richter scale",
+                "Earthquake zones in India",
+                "Seismograph",
+                "Protection of buildings from earthquakes"
+            ]
+        },
+        {
+            "chapter_no": 16,
+            "title": "Light",
+            "topics": [
+                "Laws of reflection",
+                "Regular vs diffused reflection",
+                "Multiple reflections: kaleidoscope, periscope",
+                "Refraction of light",
+                "Human eye structure: cornea, pupil, iris, lens, retina",
+                "Defects of vision: myopia, hypermetropia",
+                "Dispersion of light: prism and rainbow",
+                "Braille system"
+            ]
+        },
+        {
+            "chapter_no": 17,
+            "title": "Stars and the Solar System",
+            "topics": [
+                "Celestial objects: stars, planets, moons, asteroids, comets",
+                "Solar system: 8 planets and their order",
+                "Phases of moon",
+                "Constellation: Orion, Ursa Major, Ursa Minor, Cassiopeia",
+                "Star: Sun as nearest star",
+                "Light year definition",
+                "Milky Way galaxy",
+                "Artificial satellites and their uses"
+            ]
+        },
+        {
+            "chapter_no": 18,
+            "title": "Pollution of Air and Water",
+            "topics": [
+                "Air pollutants: CO, NOx, SOx, particulates, CFC",
+                "Greenhouse effect and global warming",
+                "Acid rain causes and effects",
+                "Depletion of ozone layer",
+                "Water pollutants: sewage, industrial effluents, chemical fertilisers",
+                "Potable water and purification methods",
+                "Ganga Action Plan"
+            ]
+        }
+    ]
+}

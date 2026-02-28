@@ -1,0 +1,367 @@
+{
+    "class": 6,
+    "subject": "social_science",
+    "board": "CBSE",
+    "books": [
+        "History: Our Pasts I",
+        "Geography: The Earth Our Habitat",
+        "Civics: Social and Political Life I"
+    ],
+    "chapters": [
+        {
+            "book": "History",
+            "chapter_no": 1,
+            "title": "What, Where, How and When?",
+            "topics": [
+                "Importance of studying the past",
+                "Sources of history: manuscripts, inscriptions, coins, monuments",
+                "Dating: BC/BCE and AD/CE",
+                "Historians and archaeologists",
+                "How the past is reconstructed"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 2,
+            "title": "On The Trail of the Earliest People",
+            "topics": [
+                "Palaeolithic period: hunter-gatherers",
+                "Stone tools and their uses",
+                "Cave paintings: Bhimbetka",
+                "Changing environment and human migration",
+                "Mesolithic and Neolithic periods"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 3,
+            "title": "From Gathering to Growing Food",
+            "topics": [
+                "Neolithic period: beginning of farming",
+                "Domestication of animals",
+                "Mehrgarh — earliest farming settlement in India",
+                "Changes in lifestyle with farming",
+                "Burzahom and Chirand sites"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 4,
+            "title": "In the Earliest Cities",
+            "topics": [
+                "Harappan or Indus Valley Civilisation",
+                "Features: town planning, grid system, drainage, granaries",
+                "Important sites: Harappa, Mohenjo-Daro, Lothal, Dholavira, Kalibangan",
+                "Crafts, trade, writing script",
+                "Decline of Harappan civilization"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 5,
+            "title": "What Books and Burials Tell Us",
+            "topics": [
+                "Vedas: Rigveda, Sama, Yajur, Atharva",
+                "Vedic society: jana, vish, grama, grihapati",
+                "Megaliths: burial practices and grave goods",
+                "Inamgaon site",
+                "Early agriculture in south India"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 6,
+            "title": "Kingdoms, Kings and an Early Republic",
+            "topics": [
+                "Janapadas and Mahajanapadas (16 mahajanapadas)",
+                "Magadha's rise: Bimbisara, Ajatasatru, advantages",
+                "Vajji: gana sangha (republic)",
+                "Taxation in early kingdoms",
+                "Varanasi and Rajgir as capitals"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 7,
+            "title": "New Questions and Ideas",
+            "topics": [
+                "Upanishads: question of atma and brahma",
+                "Jainism: Mahavira, five vows, ahimsa",
+                "Buddhism: Siddhartha Gautama, Four Noble Truths, Eightfold Path",
+                "Sangha: monastic order",
+                "Spread of Buddhism and Jainism"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 8,
+            "title": "Ashoka, The Emperor Who Gave Up War",
+            "topics": [
+                "Maurya Empire: Chandragupta, Bindusara, Ashoka",
+                "Kalinga war and its impact on Ashoka",
+                "Dhamma: Ashoka's policy",
+                "Ashoka's edicts (pillars and rock edicts)",
+                "Spread of Buddhism under Ashoka"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 9,
+            "title": "Vital Villages, Thriving Towns",
+            "topics": [
+                "Iron technology and expansion of agriculture",
+                "Difference between gramas and nagara",
+                "Punch-marked coins",
+                "Jatakas: stories of Buddha's previous lives as historical source",
+                "Guilds of craftsmen and merchants",
+                "Mathura and Arikamedu as cities"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 10,
+            "title": "Traders, Kings and Pilgrims",
+            "topics": [
+                "Silk Route: connecting India to China, Central Asia, West Asia",
+                "Kushan Empire and control of Silk Route",
+                "Bhakti and Puranas",
+                "Buddhist pilgrims: Fa Xian, Xuan Zang",
+                "Spread of Buddhism to Asia"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 11,
+            "title": "New Empires and Kingdoms",
+            "topics": [
+                "Gupta Empire: Chandragupta I, Samudragupta (Allahabad pillar inscription), Chandragupta II",
+                "Prashastis as historical sources",
+                "Pallavas (south India) and Chalukyas",
+                "Harshavardhana: Hieun-Tsang account",
+                "Difference between earlier and Gupta land grants"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 12,
+            "title": "Buildings, Paintings and Books",
+            "topics": [
+                "Stupa construction: Sanchi",
+                "Rock-cut cave temples: Ajanta, Ellora",
+                "Gupta period literature: Kalidasa, Aryabhata, Varahamihira",
+                "Classical Sanskrit",
+                "Puranas: written texts vs oral tradition"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 1,
+            "title": "The Earth in the Solar System",
+            "topics": [
+                "Solar system: sun and 8 planets",
+                "Moon as Earth's satellite",
+                "Stars and galaxies: Milky Way",
+                "Celestial bodies",
+                "Earth as unique planet: conditions for life",
+                "Light year and distances in space"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 2,
+            "title": "Globe: Latitudes and Longitudes",
+            "topics": [
+                "Globe as model of earth",
+                "Latitudes: equator, tropics, polar circles",
+                "Longitudes: Prime Meridian (Greenwich), International Date Line",
+                "Coordinates: finding location using lat and long",
+                "Time zones and IST (82.5°E for India)",
+                "Torrid, temperate, and frigid zones"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 3,
+            "title": "Motions of the Earth",
+            "topics": [
+                "Rotation: 24 hours, day and night",
+                "Revolution: 365.25 days, seasons",
+                "Axis tilt (23.5°) and its effects",
+                "Solstice and equinox",
+                "Leap year",
+                "Summer and winter solstice in northern and southern hemispheres"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 4,
+            "title": "Maps",
+            "topics": [
+                "Types of maps: physical, political, thematic",
+                "Components of a map: scale, direction, symbols",
+                "Conventional symbols and colours",
+                "Sketch vs map",
+                "Atlas as collection of maps",
+                "Plan: large scale map of small area"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 5,
+            "title": "Major Domains of the Earth",
+            "topics": [
+                "Lithosphere: continents and landforms",
+                "Hydrosphere: oceans, seas, lakes",
+                "Atmosphere: layers — troposphere, stratosphere, mesosphere, thermosphere, exosphere",
+                "Biosphere: zone of life",
+                "Seven continents and their features",
+                "Five oceans: Pacific, Atlantic, Indian, Southern, Arctic"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 6,
+            "title": "Major Landforms of the Earth",
+            "topics": [
+                "Mountains: block, fold, volcanic; ranges, peaks",
+                "Plateaus: types and features",
+                "Plains: river plains, coastal plains",
+                "Difference between mountains, plateaus, plains",
+                "Importance of each landform for human life"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 7,
+            "title": "Our Country — India",
+            "topics": [
+                "India's location: latitude 8°N-37°N, longitude 68°E-97°E",
+                "Size: 7th largest country",
+                "India and Indian Ocean: coastline",
+                "India's neighbours: 7 countries",
+                "States and union territories",
+                "Northern plains, Deccan plateau, Thar desert, coastal plains, islands"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 8,
+            "title": "India: Climate, Vegetation and Wildlife",
+            "topics": [
+                "Seasons in India: summer, winter, rainy (monsoon), retreating monsoon",
+                "Factors affecting climate: latitude, altitude, distance from sea, relief",
+                "Natural vegetation: tropical evergreen, deciduous, scrub, mountain, mangrove",
+                "Wildlife sanctuaries and national parks in India",
+                "Endangered species: tiger, lion, elephant, rhinoceros"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 1,
+            "title": "Understanding Diversity",
+            "topics": [
+                "Diversity in India: languages, religions, foods, clothing",
+                "Importance of diversity",
+                "Regional diversity and unity",
+                "Unity in diversity: national symbols",
+                "Sambhar Lake and our common identity"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 2,
+            "title": "Diversity and Discrimination",
+            "topics": [
+                "Prejudice and stereotypes",
+                "Discrimination based on caste, religion, gender",
+                "Untouchability and its effects",
+                "Historical struggles against discrimination",
+                "Constitutional Provisions against discrimination"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 3,
+            "title": "What is Government?",
+            "topics": [
+                "Need for government and laws",
+                "Types of government: democratic and non-democratic",
+                "Democracy: people's participation and elections",
+                "Monarchy, dictatorship vs democracy",
+                "Government at different levels: local, state, central"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 4,
+            "title": "Key Elements of a Democratic Government",
+            "topics": [
+                "Participation: voting and elections",
+                "Conflict resolution and equal rights",
+                "Government accountability",
+                "Majority rule and minority rights",
+                "Role of media in democracy"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 5,
+            "title": "Panchayati Raj",
+            "topics": [
+                "Three-tier structure: gram panchayat, panchayat samiti, zila parishad",
+                "Functions of gram panchayat",
+                "Gram sabha and its importance",
+                "Urban local bodies: municipality, corporation",
+                "Elections and representation in Panchayati Raj"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 6,
+            "title": "Rural Administration",
+            "topics": [
+                "Patwari role: maintaining land records",
+                "Police station and FIR",
+                "Revenue department functions",
+                "Tehsildar and land disputes",
+                "Land ownership and women's rights"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 7,
+            "title": "Urban Administration",
+            "topics": [
+                "Municipal corporation structure and functions",
+                "Mayor and ward councillors",
+                "Water supply, garbage collection, roads — municipal functions",
+                "Sources of revenue: taxes",
+                "Problems of urban governance"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 8,
+            "title": "Rural Livelihoods",
+            "topics": [
+                "Farming as main occupation in villages",
+                "Landless labourers and their conditions",
+                "Non-farm activities: crafts, trade, fishing",
+                "Crop seasons and agricultural problems",
+                "Migration to cities"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 9,
+            "title": "Urban Livelihoods",
+            "topics": [
+                "Types of urban workers: factory, domestic, market",
+                "Formal vs informal sector differences",
+                "Street vendors and their challenges",
+                "Job security and social security in formal sector",
+                "Women workers in urban areas"
+            ]
+        }
+    ]
+}

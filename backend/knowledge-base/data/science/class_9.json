@@ -1,0 +1,205 @@
+{
+    "class": 9,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "Matter in Our Surroundings",
+            "topics": [
+                "States of matter: solid, liquid, gas and their properties",
+                "Interconversion of states: melting, boiling, evaporation, condensation, sublimation",
+                "Latent heat: latent heat of fusion, latent heat of vaporisation",
+                "Effect of temperature and pressure on states of matter",
+                "Evaporation and its cooling effect",
+                "Factors affecting rate of evaporation: temperature, humidity, wind speed, surface area",
+                "Plasma and Bose-Einstein condensate (introduction)"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Is Matter Around Us Pure?",
+            "topics": [
+                "Pure substances: elements and compounds",
+                "Mixtures: homogeneous and heterogeneous",
+                "Solutions: solute, solvent, concentration",
+                "Suspensions and colloids (Tyndall effect)",
+                "Separation methods: crystallisation, distillation, fractional distillation, chromatography",
+                "Physical and chemical changes to distinguish pure substances",
+                "Alloys as homogeneous mixtures"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Atoms and Molecules",
+            "topics": [
+                "Laws of chemical combination: law of conservation of mass, law of constant proportions",
+                "Dalton's atomic theory",
+                "Atom: definition, symbol, mass",
+                "Atomic mass and molecular mass",
+                "Mole concept: Avogadro's number (6.022 × 10²³)",
+                "Molecules: monatomic, diatomic, polyatomic",
+                "Chemical formulae writing rules",
+                "Molar mass calculations"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Structure of the Atom",
+            "topics": [
+                "Subatomic particles: electron, proton, neutron (discovery and properties)",
+                "Thomson's model of atom (plum pudding)",
+                "Rutherford's nuclear model (gold foil experiment)",
+                "Bohr's model: shells (K, L, M, N) and energy levels",
+                "Atomic number and mass number",
+                "Isotopes (examples: carbon-12 and carbon-14) and isobars",
+                "Valency and octet rule",
+                "Electronic configuration"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "The Fundamental Unit of Life",
+            "topics": [
+                "Cell discovery: Robert Hooke",
+                "Cell theory: Schleiden, Schwann, Virchow",
+                "Types of cells: prokaryotic and eukaryotic",
+                "Plant cell vs animal cell differences",
+                "Cell membrane, cell wall, nucleus, cytoplasm",
+                "Organelles: mitochondria, chloroplast, endoplasmic reticulum, Golgi apparatus, vacuoles, lysosomes",
+                "Osmosis and diffusion across cell membrane"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "Tissues",
+            "topics": [
+                "Plant tissues: meristematic (apical, lateral, intercalary) and permanent (simple: parenchyma, collenchyma, sclerenchyma; complex: xylem, phloem)",
+                "Animal tissues: epithelial, connective, muscular, nervous",
+                "Types of epithelial tissue: squamous, cuboidal, columnar, ciliated",
+                "Types of connective tissue: bone, cartilage, blood, adipose",
+                "Muscular tissue: striated, smooth, cardiac",
+                "Neuron structure and function"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "Diversity in Living Organisms",
+            "topics": [
+                "Classification of organisms: Whittaker's five kingdom classification",
+                "Kingdoms: Monera, Protista, Fungi, Plantae, Animalia",
+                "Plant kingdom: thallophyta, bryophyta, pteridophyta, gymnosperms, angiosperms",
+                "Animal kingdom: porifera, coelenterata, platyhelminthes, nematoda, annelida, arthropoda, mollusca, echinodermata, protochordata, vertebrata",
+                "Nomenclature: binomial system (Linnaeus)",
+                "Hierarchy: Kingdom → Phylum → Class → Order → Family → Genus → Species"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "Motion",
+            "topics": [
+                "Scalar and vector quantities",
+                "Distance vs displacement",
+                "Speed, velocity, acceleration (definitions and formulae)",
+                "Uniform and non-uniform motion",
+                "Graphs: distance-time and velocity-time graphs",
+                "Equations of motion: v=u+at, s=ut+½at², v²=u²+2as",
+                "Circular motion and centripetal acceleration"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Force and Laws of Motion",
+            "topics": [
+                "Newton's First Law: inertia and types",
+                "Newton's Second Law: F=ma, momentum, impulse",
+                "Newton's Third Law: action and reaction pairs",
+                "Law of conservation of momentum",
+                "Applications: recoil of gun, rocket propulsion, seat belts",
+                "Balanced and unbalanced forces",
+                "Galileo's law of inertia"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "Gravitation",
+            "topics": [
+                "Universal Law of Gravitation: F = Gm₁m₂/r²",
+                "Gravitational constant G = 6.674 × 10⁻¹¹ N m² kg⁻²",
+                "Free fall and acceleration due to gravity (g = 9.8 m/s²)",
+                "Mass vs weight",
+                "Thrust and pressure",
+                "Archimedes' Principle and buoyancy",
+                "Relative density",
+                "Weight on moon: 1/6th of weight on earth"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "Work and Energy",
+            "topics": [
+                "Work: W = Fs cosθ, conditions for work to be done",
+                "Positive, negative, and zero work",
+                "Energy: kinetic energy (½mv²) and potential energy (mgh)",
+                "Law of conservation of energy",
+                "Power: P = W/t, unit watt",
+                "Commercial unit of energy: kilowatt-hour (kWh)",
+                "Energy transformation examples"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Sound",
+            "topics": [
+                "Longitudinal wave characteristics",
+                "Wave parameters: amplitude, frequency, time period, wavelength",
+                "Speed of sound in different media",
+                "Reflection of sound: echo conditions",
+                "Reverberation and acoustics of buildings",
+                "Range of hearing: infrasound (< 20 Hz), audible, ultrasound (> 20000 Hz)",
+                "Applications of ultrasound: SONAR, medical imaging",
+                "SONAR: Sound Navigation And Ranging"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Why Do We Fall Ill?",
+            "topics": [
+                "Health: definition and dimensions (physical, mental, social)",
+                "Disease: acute and chronic",
+                "Types of diseases: infectious and non-infectious",
+                "Infectious agents: bacteria, virus, fungi, protozoa, worms, prions",
+                "Means of spread: air, water, sexual contact, vectors",
+                "Principles of treatment: reduce severity, kill cause",
+                "Principles of prevention: public health hygiene, vaccines, immunisation",
+                "Antibiotics: discovery, uses, limitations"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Natural Resources",
+            "topics": [
+                "Biotic and abiotic resources",
+                "Air: composition, role in combustion, respiration, photosynthesis",
+                "Water: importance, water cycle",
+                "Soil: composition, nutrients, land degradation",
+                "Biogeochemical cycles: water cycle, nitrogen cycle, carbon cycle, oxygen cycle",
+                "Ozone layer: formation and depletion by CFCs",
+                "Effects of pollution on natural resources"
+            ]
+        },
+        {
+            "chapter_no": 15,
+            "title": "Improvement in Food Resources",
+            "topics": [
+                "Crop variety improvement: hybridisation, introduction, mutation",
+                "Desirable traits: higher yield, disease resistance, drought tolerance",
+                "Crop production management: tillage, irrigation, manure and fertilisers",
+                "Crop protection: pesticides, mixed cropping, crop rotation",
+                "Animal husbandry: cattle farming, poultry, fish production",
+                "Composite fish culture",
+                "Apiculture (bee keeping) and sericulture"
+            ]
+        }
+    ]
+}

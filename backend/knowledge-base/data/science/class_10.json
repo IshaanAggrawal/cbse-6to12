@@ -1,0 +1,228 @@
+{
+    "class": 10,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "Chemical Reactions and Equations",
+            "topics": [
+                "Chemical equations: word and symbol equations",
+                "Balancing chemical equations",
+                "Types of reactions: combination, decomposition, displacement, double displacement",
+                "Oxidation and reduction (redox reactions)",
+                "Corrosion and rancidity",
+                "Exothermic and endothermic reactions",
+                "Effects of oxidation: rusting, burning"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Acids, Bases and Salts",
+            "topics": [
+                "Properties of acids and bases",
+                "pH scale: 0-14, indicators",
+                "Strong and weak acids and bases",
+                "Neutralisation reaction",
+                "Salts: common salt, bleaching powder, baking soda, washing soda, plaster of paris",
+                "Water of crystallisation",
+                "Universal indicator and pH paper",
+                "Importance of pH in everyday life"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Metals and Non-Metals",
+            "topics": [
+                "Physical properties of metals and non-metals",
+                "Chemical properties: reaction with O₂, H₂O, acids, salt solutions",
+                "Reactivity series of metals",
+                "Formation of ionic compounds",
+                "Extraction of metals: highly reactive (electrolysis), moderately reactive (reduction), less reactive (heating)",
+                "Corrosion prevention: galvanising, alloying, painting",
+                "Displacement reactions of metals"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Carbon and its Compounds",
+            "topics": [
+                "Covalent bonding in carbon compounds",
+                "Allotropes of carbon: diamond, graphite, fullerene",
+                "Homologous series: alkanes, alkenes, alkynes",
+                "Functional groups: alcohols, aldehydes, ketones, carboxylic acids",
+                "Chemical properties: combustion, oxidation, addition, substitution",
+                "Ethanol and ethanoic acid properties",
+                "Soaps and detergents: hydrophilic and hydrophobic parts",
+                "IUPAC nomenclature (introduction)"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "Periodic Classification of Elements",
+            "topics": [
+                "Early classification: Dobereiner triads, Newlands octaves",
+                "Mendeleev's periodic table: merits and limitations",
+                "Modern periodic table: arrangement by atomic number",
+                "Periods and groups: trends in physical and chemical properties",
+                "Valency, atomic size, metallic character trends",
+                "Metalloids and their position in periodic table",
+                "Position of hydrogen in periodic table"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "Life Processes",
+            "topics": [
+                "Life processes: nutrition, respiration, transportation, excretion",
+                "Photosynthesis: equation, mechanism, factors",
+                "Human digestive system: detailed anatomy and physiology",
+                "Respiration: aerobic vs anaerobic, human respiratory system",
+                "Transportation in humans: heart chambers, blood flow, double circulation",
+                "Transportation in plants: xylem and phloem",
+                "Excretion in humans: kidney anatomy, urine formation (filtration, reabsorption, secretion)",
+                "Artificial kidney: dialysis"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "Control and Coordination",
+            "topics": [
+                "Nervous system: central (brain, spinal cord) and peripheral",
+                "Neuron structure and nerve impulse transmission",
+                "Reflex arc and reflex action",
+                "Brain: cerebrum, cerebellum, medulla oblongata functions",
+                "Endocrine system: hormones and glands",
+                "Plant hormones: auxin, gibberellin, cytokinin, abscisic acid, ethylene",
+                "Tropic and nastic movements in plants",
+                "Feedback mechanism in hormone regulation"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "How Do Organisms Reproduce?",
+            "topics": [
+                "Asexual reproduction: fission, budding, fragmentation, spore formation, vegetative propagation",
+                "Sexual reproduction in plants: flower structure, pollination, fertilisation, seed and fruit formation",
+                "Sexual reproduction in humans: male and female reproductive systems",
+                "Menstrual cycle",
+                "Fertilisation and development of embryo",
+                "Contraception methods: barrier, chemical, hormonal, surgical",
+                "STIs and their prevention",
+                "DNA copying importance in reproduction"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Heredity and Evolution",
+            "topics": [
+                "Heredity: transmission of traits from parents to offspring",
+                "Mendel's experiments: monohybrid and dihybrid crosses",
+                "Laws of inheritance: law of segregation, law of independent assortment",
+                "Sex determination in humans: XX and XY chromosomes",
+                "Evolution: Darwin's theory of natural selection",
+                "Evidence of evolution: fossil record, homologous organs, analogous organs, embryology",
+                "Human evolution overview",
+                "Acquired vs inherited traits"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "Light — Reflection and Refraction",
+            "topics": [
+                "Reflection: laws, spherical mirrors (concave and convex)",
+                "Mirror formula: 1/v + 1/u = 1/f, magnification",
+                "New Cartesian sign convention",
+                "Refraction: laws, refractive index, Snell's law",
+                "Refraction through glass slab, prism",
+                "Lens formula and magnification",
+                "Power of lens: P = 1/f (in metres)",
+                "Total internal reflection"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "The Human Eye and the Colourful World",
+            "topics": [
+                "Human eye: complete structure and function",
+                "Accommodation of eye",
+                "Defects of vision: myopia, hypermetropia, presbyopia, astigmatism and corrections",
+                "Refraction through prism: dispersion",
+                "Rainbow formation",
+                "Atmospheric refraction: twinkling of stars, advance sunrise/delayed sunset",
+                "Scattering of light: Tyndall effect",
+                "Blue sky and red sunset explanation"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Electricity",
+            "topics": [
+                "Electric charge and current",
+                "Electric potential and potential difference",
+                "Ohm's law: V = IR",
+                "Resistance: factors affecting resistance, resistivity",
+                "Series and parallel combinations of resistors",
+                "Heating effect of current: Joule's law, H = I²Rt",
+                "Electric power: P = VI = I²R = V²/R",
+                "Commercial units: kilowatt-hour"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Magnetic Effects of Electric Current",
+            "topics": [
+                "Magnetic field due to current-carrying conductor",
+                "Right-hand thumb rule",
+                "Magnetic field of a circular loop and solenoid",
+                "Force on a current-carrying conductor in a magnetic field: F = BIL",
+                "Fleming's Left-Hand Rule",
+                "Electric motor: principle and working",
+                "Electromagnetic induction: Faraday's law",
+                "Fleming's Right-Hand Rule",
+                "Generator: principle and working",
+                "AC vs DC, household electrical circuit, earthing, fuse"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Sources of Energy",
+            "topics": [
+                "Characteristics of a good fuel: high calorific value, low smoke, easy to transport",
+                "Conventional sources: fossil fuels, thermal power plant, hydroelectric plant",
+                "Non-conventional sources: solar energy, wind energy, biogas, tidal energy, wave energy, geothermal energy",
+                "Nuclear energy: fission and fusion, nuclear power plant",
+                "Environmental impact of energy sources",
+                "Solar cells and solar panels"
+            ]
+        },
+        {
+            "chapter_no": 15,
+            "title": "Our Environment",
+            "topics": [
+                "Ecosystem: components and types",
+                "Food chain and food web",
+                "Trophic levels and energy flow (10% law)",
+                "Biological magnification (biomagnification)",
+                "Biodegradable vs non-biodegradable waste",
+                "Ozone layer depletion: CFCs and UV radiation",
+                "Solid waste management: 3Rs",
+                "Environmental problems: global warming, acid rain"
+            ]
+        },
+        {
+            "chapter_no": 16,
+            "title": "Management of Natural Resources",
+            "topics": [
+                "Need for conservation",
+                "Forests: national parks, biosphere reserves, chipko movement",
+                "Water resources: water conservation, watershed management, dams",
+                "Coal and petroleum conservation",
+                "Stakeholders in natural resource management",
+                "Sustainable development concept",
+                "Ganga Action Plan and water pollution control",
+                "The 5Rs"
+            ]
+        }
+    ]
+}

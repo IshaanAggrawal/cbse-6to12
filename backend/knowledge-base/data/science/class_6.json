@@ -1,0 +1,195 @@
+{
+  "class": 6,
+  "subject": "science",
+  "board": "CBSE",
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "Food: Where Does It Come From?",
+      "topics": [
+        "Sources of food: plants and animals",
+        "Ingredients of food",
+        "Plant parts used as food: roots, stems, leaves, flowers, fruits, seeds",
+        "Animal products as food: milk, eggs, meat, honey",
+        "Herbivores, carnivores, and omnivores",
+        "Food varieties across different regions of India"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "Components of Food",
+      "topics": [
+        "Nutrients in food: carbohydrates, proteins, fats, vitamins, minerals",
+        "Functions of nutrients",
+        "Tests for nutrients: iodine test for starch, protein test with copper sulphate",
+        "Balanced diet definition and examples",
+        "Deficiency diseases: scurvy, rickets, beriberi, anaemia, night blindness",
+        "Roughage and water importance"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "Fibre to Fabric",
+      "topics": [
+        "Types of fibres: natural (cotton, silk, wool, jute) and synthetic",
+        "Plant fibres: cotton from cotton boll, jute from jute plant",
+        "Animal fibres: wool from sheep/yak/angora rabbit, silk from silkworm",
+        "Weaving and knitting processes",
+        "Spinning: cotton ginning to yarn",
+        "History of clothing: from leaves/bark to woven fabric"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "Sorting Materials into Groups",
+      "topics": [
+        "Properties of materials: lustrous, rough/smooth, hard/soft, transparent/translucent/opaque",
+        "Soluble vs insoluble materials",
+        "Floating and sinking",
+        "Materials that can be compressed or not",
+        "Grouping materials based on common properties"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "Separation of Substances",
+      "topics": [
+        "Need for separation of mixtures",
+        "Methods: handpicking, threshing, winnowing, sieving, sedimentation",
+        "Decantation and filtration",
+        "Evaporation",
+        "Loading: using alum to speed sedimentation",
+        "Pure vs impure substances"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "Changes Around Us",
+      "topics": [
+        "Reversible changes: melting, freezing, dissolving",
+        "Irreversible changes: burning, rusting, cooking",
+        "Expansion and contraction",
+        "Slow vs fast changes",
+        "Periodic vs non-periodic changes"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "Getting to Know Plants",
+      "topics": [
+        "Types of plants: herbs, shrubs, trees, climbers, creepers",
+        "Parts of a plant: root, stem, leaf, flower, fruit, seed",
+        "Functions of each part",
+        "Leaf venation: parallel and reticulate",
+        "Types of roots: taproot and fibrous root",
+        "Transpiration and photosynthesis introduction"
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "Body Movements",
+      "topics": [
+        "Types of joints: ball and socket, pivotal, hinge, fixed",
+        "Functions of joints",
+        "Bones and cartilage",
+        "Movement in earthworm, snail, fish, birds, snake",
+        "Human skeleton overview",
+        "Muscular system: muscles and tendons"
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "The Living Organisms and Their Surroundings",
+      "topics": [
+        "Habitat types: terrestrial and aquatic",
+        "Adaptation in animals and plants to habitat",
+        "Desert, mountain, rainforest, grassland, ocean habitats",
+        "Characteristics of living things: growth, reproduction, respiration, excretion, response to stimuli",
+        "Difference between biotic and abiotic components"
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "Motion and Measurement of Distances",
+      "topics": [
+        "Standard units of measurement: SI units",
+        "Measurement of length using ruler",
+        "Types of motion: linear, circular, periodic, random",
+        "History of transport and measurement",
+        "Correct way to measure using a scale"
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "Light, Shadows and Reflections",
+      "topics": [
+        "Transparent, translucent, opaque objects",
+        "Formation of shadows",
+        "Pinhole camera",
+        "Reflection of light",
+        "Mirrors and types of reflection",
+        "Rectilinear propagation of light"
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "Electricity and Circuits",
+      "topics": [
+        "Electric cell and its terminals",
+        "Simple electric circuit",
+        "Conductors and insulators",
+        "Electric switch",
+        "Torch and its working",
+        "Symbols used in circuit diagrams"
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title": "Fun with Magnets",
+      "topics": [
+        "Magnetic and non-magnetic materials",
+        "Poles of a magnet: north and south",
+        "Finding directions using compass",
+        "Attraction and repulsion between poles",
+        "Making a magnet",
+        "Uses of magnets in everyday life"
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title": "Water",
+      "topics": [
+        "Sources of water: rain, rivers, lakes, wells, oceans",
+        "Water cycle: evaporation, condensation, precipitation",
+        "Drought and floods",
+        "Uses of water",
+        "Water conservation methods",
+        "Groundwater and water table"
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title": "Air Around Us",
+      "topics": [
+        "Composition of air: nitrogen, oxygen, carbon dioxide, water vapour",
+        "Properties of air",
+        "Wind formation",
+        "Role of oxygen in combustion and respiration",
+        "Role of carbon dioxide in photosynthesis",
+        "Air pollution causes and effects"
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title": "Garbage In, Garbage Out",
+      "topics": [
+        "Types of waste: biodegradable and non-biodegradable",
+        "Composting process",
+        "Vermicomposting",
+        "Recycling of paper, plastic, glass",
+        "Problems caused by garbage",
+        "The 3Rs: Reduce, Reuse, Recycle"
+      ]
+    }
+  ]
+}

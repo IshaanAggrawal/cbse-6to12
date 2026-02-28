@@ -1,0 +1,336 @@
+{
+    "class": 10,
+    "subject": "social_science",
+    "board": "CBSE",
+    "books": [
+        "History: India and the Contemporary World II",
+        "Geography: Contemporary India II",
+        "Civics: Democratic Politics II",
+        "Economics: Understanding Economic Development"
+    ],
+    "chapters": [
+        {
+            "book": "History",
+            "chapter_no": 1,
+            "title": "The Rise of Nationalism in Europe",
+            "topics": [
+                "Napoleon Bonaparte: Napoleonic code, spread of ideas",
+                "German unification: Bismarck, Prussia",
+                "Italian unification: Garibaldi, Cavour",
+                "Romanticism and nationalism",
+                "Balkans and 'Eastern Question'",
+                "Visualising the nation: Marianne (France), Germania (Germany)"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 2,
+            "title": "Nationalism in India",
+            "topics": [
+                "Non-Cooperation Movement 1920-22: reasons, events, withdrawal after Chauri Chaura",
+                "Simon Commission 1928 and reaction",
+                "Civil Disobedience Movement 1930: Dandi March, causes, events",
+                "Poorna Swaraj resolution",
+                "Participation of different groups: peasants, workers, women, tribals",
+                "Limits of Civil Disobedience: Dalits, Muslim League"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 3,
+            "title": "The Making of a Global World",
+            "topics": [
+                "Pre-modern world: silk routes, food, disease",
+                "19th century globalisation: trade, migration, capital flow",
+                "Indentured labour from India",
+                "The Great Depression 1929 and its global impact",
+                "Post-war reconstruction: Bretton Woods institutions (IMF, World Bank)",
+                "WTO and new globalisation"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 4,
+            "title": "The Age of Industrialisation",
+            "topics": [
+                "Industrial Revolution in Britain: textiles, steam engine",
+                "Cotton mills and Manchester",
+                "Hand technology vs power loom",
+                "Industrialisation in India: Bombay mills, jute mills of Calcutta",
+                "Small industries and urban workers",
+                "Advertisement and markets"
+            ]
+        },
+        {
+            "book": "History",
+            "chapter_no": 5,
+            "title": "Print Culture and the Modern World",
+            "topics": [
+                "Gutenberg printing press",
+                "India and print: missionaries, Bengali prose",
+                "Rise of newspapers and magazines",
+                "Print and nationalism in India",
+                "Women and print",
+                "Reforms and debates through print"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 1,
+            "title": "Resources and Development",
+            "topics": [
+                "Types of resources: natural, human, man-made",
+                "Classification: renewable and non-renewable, biotic and abiotic",
+                "Land resources: land use pattern in India",
+                "Soil types in India: alluvial, black, red, laterite, arid, forest, mountain soils",
+                "Soil erosion and conservation",
+                "Resource planning in India"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 2,
+            "title": "Forest and Wildlife Resources",
+            "topics": [
+                "Types of forests: reserved, protected, unclassed",
+                "Declining forest cover: causes and effects",
+                "Biodiversity loss: endangered, vulnerable, extinct species",
+                "Conservation efforts: Project Tiger, Project Elephant",
+                "Community and government conservation",
+                "Sacred groves tradition"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 3,
+            "title": "Water Resources",
+            "topics": [
+                "Freshwater availability and scarcity",
+                "Multi-purpose river projects: dams — advantages and disadvantages",
+                "Large dams controversy: Narmada Bachao Andolan",
+                "Rainwater harvesting in India: Rajasthan khadins, Bengal bheriis, Maharashtra bandharas",
+                "Watersheds and water conservation",
+                "International water sharing"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 4,
+            "title": "Agriculture",
+            "topics": [
+                "Types of farming: subsistence (primitive, intensive), commercial",
+                "Major crops: rice, wheat, millets, pulses, sugarcane, oilseeds, tea, coffee, rubber, cotton, jute",
+                "Green Revolution: impact and limitations",
+                "Technological and institutional reforms in Indian agriculture",
+                "Agricultural problems: small landholdings, low productivity",
+                "Food security"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 5,
+            "title": "Minerals and Energy Resources",
+            "topics": [
+                "Types of minerals: metallic (ferrous, non-ferrous), non-metallic",
+                "Mining: surface, subsurface methods",
+                "Distribution of minerals in India: iron ore (Odisha, Karnataka), coal (Jharkhand, Chhattisgarh)",
+                "Conventional energy: coal, petroleum, natural gas, electricity",
+                "Non-conventional energy: solar, wind, biogas, tidal, geothermal",
+                "Energy conservation"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 6,
+            "title": "Manufacturing Industries",
+            "topics": [
+                "Importance of manufacturing in national economy",
+                "Textile industry: cotton (Mumbai) and jute (Kolkata)",
+                "Steel industry: Jharkhand-Chhattisgarh-Odisha belt",
+                "Chemical industry: petrochemicals",
+                "Automobile industry: Pune, Chennai, Delhi",
+                "IT industry: Bengaluru, Hyderabad, Chennai, Pune",
+                "Industrial pollution and environmental degradation"
+            ]
+        },
+        {
+            "book": "Geography",
+            "chapter_no": 7,
+            "title": "Lifelines of National Economy",
+            "topics": [
+                "Means of transport: roadways, railways, airways, waterways, pipelines",
+                "Golden Quadrilateral and North-South East-West corridor",
+                "Indian Railways: largest network, classification",
+                "Air transport: international and domestic",
+                "National and international waterways",
+                "Communication: mass, personal, satellite",
+                "International trade and tourism"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 1,
+            "title": "Power Sharing",
+            "topics": [
+                "Belgium case: ethnic composition and power sharing",
+                "Sri Lanka case: majoritarianism and conflict",
+                "Why power sharing is important",
+                "Forms of power sharing: horizontal, vertical, among social groups, political parties",
+                "Prudential and moral reasons for power sharing"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 2,
+            "title": "Federalism",
+            "topics": [
+                "Definition and features of federalism",
+                "India as federal country: union and state subjects, concurrent list",
+                "Decentralisation in India: 1992 amendment, Panchayati Raj",
+                "Belgium vs Sri Lanka: handling diversity through federalism",
+                "Difference between unitary and federal governments"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 3,
+            "title": "Democracy and Diversity",
+            "topics": [
+                "Social divisions and politics",
+                "Mexico Olympics 1968: Black Power Salute and social context",
+                "Why social differences matter in democracy",
+                "Overlapping vs cross-cutting differences",
+                "Conditions when social divisions are dangerous or manageable"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 4,
+            "title": "Gender, Religion and Caste",
+            "topics": [
+                "Gender and politics: women's representation, gender division of labour",
+                "Religion and politics in India: secularism",
+                "Communalism and its dangers",
+                "Caste and politics: caste hierarchies, OBC reservations",
+                "Constitutional provisions for equality"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 5,
+            "title": "Popular Struggles and Movements",
+            "topics": [
+                "Bolivia water war: privatisation of water and public protest",
+                "Nepal's movement for democracy 2006",
+                "Pressure groups and interest groups",
+                "National Alliance of People's Movements (NAPM)",
+                "Narmada Bachao Andolan",
+                "Role of movements in democracy"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 6,
+            "title": "Political Parties",
+            "topics": [
+                "Role of political parties in democracy",
+                "Functions of political parties",
+                "National parties: INC, BJP, BSP, NCP, CPI, CPI(M), NCP",
+                "State parties and their role",
+                "Challenges to political parties: dynasticism, money power, lack of internal democracy",
+                "Reforms to strengthen political parties"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 7,
+            "title": "Outcomes of Democracy",
+            "topics": [
+                "How to assess democracy: accountability, rights, equality",
+                "Economic outcomes: HDI comparison, democracies vs dictatorships",
+                "Social outcomes: dignity, freedom",
+                "Democracy and dignity of citizens",
+                "Democracy and minority rights"
+            ]
+        },
+        {
+            "book": "Civics",
+            "chapter_no": 8,
+            "title": "Challenges to Democracy",
+            "topics": [
+                "Foundational challenge: establishing democracy",
+                "Challenge of expansion: local self-government, women participation",
+                "Challenge of deepening democracy: reducing power of wealthy, corruption",
+                "Democratic reforms: electoral, political",
+                "Role of citizens in democracy"
+            ]
+        },
+        {
+            "book": "Economics",
+            "chapter_no": 1,
+            "title": "Development",
+            "topics": [
+                "Different notions of development: income, education, health, freedom",
+                "National Development vs individual development",
+                "National Income, Per Capita Income",
+                "Human Development Index (HDI): indicators",
+                "Sustainability of development",
+                "Kerala vs Punjab vs Haryana comparison on development indicators"
+            ]
+        },
+        {
+            "book": "Economics",
+            "chapter_no": 2,
+            "title": "Sectors of the Indian Economy",
+            "topics": [
+                "Primary sector (agriculture), secondary (industry), tertiary (services)",
+                "GDP calculation and contribution of each sector",
+                "Historical shift: primary to tertiary in India",
+                "Organised vs unorganised sector",
+                "Public vs private sector",
+                "Disguised unemployment in agriculture",
+                "NREGA 2005: government employment guarantee"
+            ]
+        },
+        {
+            "book": "Economics",
+            "chapter_no": 3,
+            "title": "Money and Credit",
+            "topics": [
+                "Evolution of money: barter to coins to paper to digital",
+                "Double coincidence of wants problem",
+                "Functions of money",
+                "Formal and informal credit: banks vs moneylenders",
+                "Terms of credit: interest rate, collateral",
+                "Self-Help Groups (SHGs): microcredit",
+                "RBI role in regulating banks"
+            ]
+        },
+        {
+            "book": "Economics",
+            "chapter_no": 4,
+            "title": "Globalisation and the Indian Economy",
+            "topics": [
+                "Globalisation: meaning, factors (technology, liberalisation)",
+                "MNCs: how they work, impact on developing countries",
+                "Trade policies: World Trade Organisation (WTO)",
+                "Impact of globalisation on Indian economy: IT, garments, auto parts",
+                "Fair globalisation and its importance",
+                "Pros and cons of globalisation for India"
+            ]
+        },
+        {
+            "book": "Economics",
+            "chapter_no": 5,
+            "title": "Consumer Rights",
+            "topics": [
+                "Consumer exploitation and unfair trade practices",
+                "Consumer rights: right to safety, information, choice, heard, redress, consumer education",
+                "Consumer Protection Act 1986 and 2019",
+                "Consumer Disputes Redressal Forums (CDRC): district, state, national",
+                "RTI and consumer rights",
+                "ISI, Agmark, Hallmark certification"
+            ]
+        }
+    ]
+}

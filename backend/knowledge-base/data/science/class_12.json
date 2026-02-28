@@ -1,0 +1,225 @@
+{
+    "class": 12,
+    "subject": "science",
+    "board": "CBSE",
+    "chapters": [
+        {
+            "chapter_no": 1,
+            "title": "The Solid State",
+            "topics": [
+                "Crystalline and amorphous solids",
+                "Crystal lattice and unit cells: cubic (simple, BCC, FCC), hexagonal",
+                "Types of voids: tetrahedral and octahedral",
+                "Packing efficiency calculations",
+                "Point defects: Frenkel, Schottky, interstitial",
+                "Electrical properties: conductors, semiconductors, insulators",
+                "Magnetic properties: diamagnetic, paramagnetic, ferromagnetic"
+            ]
+        },
+        {
+            "chapter_no": 2,
+            "title": "Solutions",
+            "topics": [
+                "Types of solutions: gaseous, liquid, solid",
+                "Concentration expressions: molality, molarity, mole fraction, ppm",
+                "Henry's law (gas solubility in liquid)",
+                "Raoult's law: ideal solutions, vapour pressure lowering",
+                "Colligative properties: relative lowering of vapour pressure, elevation of boiling point, depression of freezing point, osmotic pressure",
+                "Van't Hoff factor and abnormal molar masses",
+                "Reverse osmosis"
+            ]
+        },
+        {
+            "chapter_no": 3,
+            "title": "Electrochemistry",
+            "topics": [
+                "Electrochemical cells: galvanic vs electrolytic",
+                "Standard electrode potential and EMF calculation",
+                "Nernst equation: E = E° - (RT/nF) ln Q",
+                "Relationship between EMF and Gibbs energy: ΔG° = -nFE°",
+                "Equilibrium constant from EMF",
+                "Conductance of electrolytic solutions: specific, molar conductance",
+                "Kohlrausch's law",
+                "Electrolysis: Faraday's first and second laws",
+                "Batteries: primary (dry cell), secondary (lead acid), fuel cells",
+                "Corrosion: electrochemical theory, prevention"
+            ]
+        },
+        {
+            "chapter_no": 4,
+            "title": "Chemical Kinetics",
+            "topics": [
+                "Reaction rate: average and instantaneous",
+                "Factors affecting rate: concentration, temperature, catalyst, surface area",
+                "Rate law and order of reaction",
+                "Integrated rate equations: zero order, first order",
+                "Half-life of reactions",
+                "Collision theory and activation energy",
+                "Arrhenius equation: k = A e^(-Ea/RT)",
+                "Effect of temperature on rate: temperature coefficient",
+                "Mechanism and molecularity"
+            ]
+        },
+        {
+            "chapter_no": 5,
+            "title": "Surface Chemistry",
+            "topics": [
+                "Adsorption: physical vs chemical adsorption, Freundlich adsorption isotherm",
+                "Catalysis: homogeneous and heterogeneous",
+                "Colloidal state: types (sol, gel, emulsion)",
+                "Preparation and properties of colloids",
+                "Tyndall effect and Brownian motion",
+                "Electrophoresis and coagulation",
+                "Emulsions: types and emulsifying agents",
+                "Micelles and cleansing action of soaps"
+            ]
+        },
+        {
+            "chapter_no": 6,
+            "title": "General Principles of Isolation of Elements",
+            "topics": [
+                "Mineral vs ore",
+                "Concentration of ores: gravity separation, froth flotation, magnetic separation, leaching",
+                "Extraction: reduction with carbon, CO, aluminium (thermite)",
+                "Ellingham diagram",
+                "Electrolytic reduction: Na, Al",
+                "Refining methods: distillation, liquation, electrolysis, zone refining, vapour phase",
+                "Uses of Al, Cu, Zn, Fe"
+            ]
+        },
+        {
+            "chapter_no": 7,
+            "title": "The p-Block Elements (Groups 15-18)",
+            "topics": [
+                "Group 15: nitrogen family — properties, allotropy of phosphorus",
+                "Oxides of nitrogen: N₂O, NO, NO₂, N₂O₃, N₂O₅",
+                "Phosphorus: oxoacids H₃PO₄, H₃PO₃",
+                "Group 16: oxygen family — allotropy of sulphur",
+                "Sulphur compounds: SO₂, SO₃, H₂SO₄ (contact process)",
+                "Group 17: halogen family — reactivity trends",
+                "Interhalogen compounds",
+                "Group 18: noble gases — properties and uses",
+                "Ozone: structure, preparation, uses"
+            ]
+        },
+        {
+            "chapter_no": 8,
+            "title": "d and f Block Elements",
+            "topics": [
+                "Transition metals (3d series): electronic configuration, general properties",
+                "Variable oxidation states and stability",
+                "Magnetic properties and colour of transition metal ions",
+                "Catalytic and complex formation properties",
+                "Interstitial compounds and alloy formation",
+                "Important compounds: KMnO₄, K₂Cr₂O₇",
+                "Lanthanoids: electronic configuration, lanthanoid contraction",
+                "Actinoids: radioactive nature"
+            ]
+        },
+        {
+            "chapter_no": 9,
+            "title": "Coordination Compounds",
+            "topics": [
+                "Werner's theory",
+                "Nomenclature of coordination compounds (IUPAC)",
+                "Isomerism: structural (ionisation, linkage, hydrate, coordination) and stereoisomerism",
+                "Bonding theories: VBT and CFT",
+                "Crystal field splitting: strong and weak field ligands, colour and magnetism",
+                "Stability constants of coordination compounds",
+                "Importance in biology (haemoglobin, chlorophyll), medicine (cisplatin), extraction of metals"
+            ]
+        },
+        {
+            "chapter_no": 10,
+            "title": "Haloalkanes and Haloarenes",
+            "topics": [
+                "Classification and nomenclature",
+                "Nature of C-X bond",
+                "Physical properties: boiling points, density, solubility",
+                "Chemical reactions: nucleophilic substitution (SN1 and SN2), elimination",
+                "Optical activity and chirality",
+                "Polyhalogen compounds: CHCl₃, CCl₄, freons, DDT",
+                "Environmental effects of halogenated compounds"
+            ]
+        },
+        {
+            "chapter_no": 11,
+            "title": "Alcohols, Phenols and Ethers",
+            "topics": [
+                "Classification and IUPAC nomenclature",
+                "Physical properties: hydrogen bonding and boiling points",
+                "Chemical properties of alcohols: reactions with Na, HX, acid chlorides",
+                "Oxidation of alcohols to aldehydes/ketones/acids",
+                "Phenols: acidity, electrophilic substitution",
+                "Ethers: preparation by Williamson synthesis, cleavage by HI",
+                "Uses: ethanol (fuel, beverages), phenol (antiseptic)"
+            ]
+        },
+        {
+            "chapter_no": 12,
+            "title": "Aldehydes, Ketones and Carboxylic Acids",
+            "topics": [
+                "Nomenclature of aldehydes (alkanals) and ketones (alkanones)",
+                "Physical properties",
+                "Chemical reactions: nucleophilic addition, aldol condensation, Cannizzaro's reaction",
+                "Oxidation of aldehydes vs ketones (Tollens', Fehling's tests)",
+                "Carboxylic acids: nomenclature, acidity, reactions",
+                "Methods of preparation",
+                "Derivatives: acid chlorides, anhydrides, amides, esters"
+            ]
+        },
+        {
+            "chapter_no": 13,
+            "title": "Amines",
+            "topics": [
+                "Classification: primary, secondary, tertiary",
+                "IUPAC nomenclature",
+                "Physical properties",
+                "Chemical properties: basicity, acylation, diazotisation",
+                "Methods of preparation: reduction of nitriles, amides, nitro compounds",
+                "Coupling reaction: formation of azo dyes",
+                "Diazonium salts and their reactions"
+            ]
+        },
+        {
+            "chapter_no": 14,
+            "title": "Biomolecules",
+            "topics": [
+                "Carbohydrates: mono-, di-, polysaccharides, reducing and non-reducing sugars",
+                "Glucose: open chain and cyclic structure",
+                "Proteins: amino acids, peptide bond, levels of structure",
+                "Enzymes: classification, mechanism of action",
+                "Vitamins: classification (water-soluble, fat-soluble), deficiency diseases",
+                "Nucleic acids: DNA and RNA structure, base pairing, double helix",
+                "Hormones: classification and functions"
+            ]
+        },
+        {
+            "chapter_no": 15,
+            "title": "Polymers",
+            "topics": [
+                "Classification of polymers: natural, semi-synthetic, synthetic",
+                "Polymerisation types: addition (radical, cationic, anionic), condensation",
+                "Elastomers: natural rubber, vulcanisation, neoprene, Buna-S",
+                "Fibres: Nylon-6,6, Nylon-6, Dacron, Orlon",
+                "Thermoplastics: PVC, PTFE, polystyrene",
+                "Thermosetting polymers: Bakelite, Melamine",
+                "Biodegradable polymers: PHBV, nylon-2 nylon-6",
+                "Polymers of commercial importance"
+            ]
+        },
+        {
+            "chapter_no": 16,
+            "title": "Chemistry in Everyday Life",
+            "topics": [
+                "Drugs and medicines: types, mechanisms",
+                "Drug-target interactions: receptors, enzymes",
+                "Types of drugs: analgesics, tranquilisers, antimicrobials, antiseptics, antacids, antihistamines, antifertility",
+                "Chemicals in food: preservatives, artificial sweeteners, antioxidants, edible colours",
+                "Cleansing agents: soaps (saponification) and synthetic detergents",
+                "Action of soaps and detergents: micelle formation",
+                "Hard water and soap scum problem"
+            ]
+        }
+    ]
+}
